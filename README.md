@@ -1,3 +1,6 @@
+VIDEO NOS ARQUIVOS DO PROJETO
+
+
 # 🎲 Projeto Tabuleiro - Simulação de Jogo Estratégico
 
 Este projeto consiste em uma aplicação Java (Console) que simula a lógica de um jogo de tabuleiro estratégico (inspirado em "Banco Imobiliário"). 
