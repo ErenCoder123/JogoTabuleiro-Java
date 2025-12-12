@@ -22,7 +22,6 @@ O código está organizado seguindo boas práticas de separação de responsabil
 - **`src/modelo`**: Classes de domínio (Jogador, Casa e suas especializações).
 - **`src/estrutura`**: Implementação "from scratch" das estruturas de dados (Classe `No` e `TabuleiroListaCircular`).
 - **`src/jogo`**: Lógica de controle (`MotorJogo`), regras de negócio, turnos, dados e transações financeiras.
-- **`src/app`**: Ponto de entrada da aplicação (`Main`).
 
 ## ⚙️ Funcionalidades
 
